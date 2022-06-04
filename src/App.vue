@@ -24,6 +24,6 @@ export default {
 
 <style lang="scss">
 
-@import './assets/style/Global.vue';
+@import './assets/style/global-parts/Global.scss';
 
 </style>

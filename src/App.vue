@@ -24,6 +24,6 @@ export default {
 
 <style lang="scss">
 
-@import './assets/style/global-parts/Global.scss';
+@import 'assets/style/Global.scss';
 
 </style>
